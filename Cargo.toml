@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 rdev = "0.5.1"
 terminal_size = "0.1.17"
+colored = "2.0.0"
